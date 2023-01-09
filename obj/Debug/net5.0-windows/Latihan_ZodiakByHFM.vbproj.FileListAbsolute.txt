@@ -1,0 +1,42 @@
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.exe
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.deps.json
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.runtimeconfig.json
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.runtimeconfig.dev.json
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.dll
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\ref\Latihan_ZodiakByHFM.dll
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.pdb
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.vbproj.AssemblyReference.cache
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Form1.resources
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.vbproj.GenerateResource.cache
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.AssemblyInfoInputs.cache
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.AssemblyInfo.vb
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.vbproj.CoreCompileInputs.cache
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.dll
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\ref\Latihan_ZodiakByHFM.dll
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.pdb
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.genruntimeconfig.cache
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Form2.resources
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Resources.resources
+C:\Users\Veram\source\repos\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Resource1.resources
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.exe
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.deps.json
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.runtimeconfig.json
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.runtimeconfig.dev.json
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.dll
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\ref\Latihan_ZodiakByHFM.dll
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\bin\Debug\net5.0-windows\Latihan_ZodiakByHFM.pdb
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.vbproj.AssemblyReference.cache
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Form1.resources
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Form2.resources
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Resource1.resources
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.Resources.resources
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.vbproj.GenerateResource.cache
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.AssemblyInfoInputs.cache
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.AssemblyInfo.vb
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.vbproj.CoreCompileInputs.cache
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.dll
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\ref\Latihan_ZodiakByHFM.dll
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.pdb
+F:\Bahan bahan Kuliah\Semester 3\Pemrograman Desktop\Tugas\Latihan_ZodiakByHFM\obj\Debug\net5.0-windows\Latihan_ZodiakByHFM.genruntimeconfig.cache
